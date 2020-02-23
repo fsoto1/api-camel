@@ -30,8 +30,8 @@ $ java -jar target/api-camel-0.0.1-SNAPSHOT.jar
 | Información | URL |
 | ------ | ------ |
 | Swagger | http://localhost:8080/api/api-doc |
-| Acutator info | http://localhost:8080/actuator/info |
-| Acutator health | http://localhost:8080/actuator/health |
+| Actuator info | http://localhost:8080/actuator/info |
+| Actuator health | http://localhost:8080/actuator/health |
 
 ### Ejemplo de request
 
